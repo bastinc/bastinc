@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on 
 
-OncoKDM, an online Clinical Decision Support (CDS) platform that combines routine NGS somatic data and additional biomarkers to translate it into actionable clinical insight enabling clinicians to provide patients with personalised treatments.
+Applications and scientific web sites for the Operational Directorate Natural Environment 
 
 ### 🌱 I’m currently learning
 
